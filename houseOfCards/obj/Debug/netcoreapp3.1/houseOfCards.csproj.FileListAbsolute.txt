@@ -1,0 +1,13 @@
+C:\Users\123\source\repos\houseOfCards\houseOfCards\bin\Debug\netcoreapp3.1\houseOfCards.exe
+C:\Users\123\source\repos\houseOfCards\houseOfCards\bin\Debug\netcoreapp3.1\houseOfCards.deps.json
+C:\Users\123\source\repos\houseOfCards\houseOfCards\bin\Debug\netcoreapp3.1\houseOfCards.runtimeconfig.json
+C:\Users\123\source\repos\houseOfCards\houseOfCards\bin\Debug\netcoreapp3.1\houseOfCards.runtimeconfig.dev.json
+C:\Users\123\source\repos\houseOfCards\houseOfCards\bin\Debug\netcoreapp3.1\houseOfCards.dll
+C:\Users\123\source\repos\houseOfCards\houseOfCards\bin\Debug\netcoreapp3.1\houseOfCards.pdb
+C:\Users\123\source\repos\houseOfCards\houseOfCards\obj\Debug\netcoreapp3.1\houseOfCards.csprojAssemblyReference.cache
+C:\Users\123\source\repos\houseOfCards\houseOfCards\obj\Debug\netcoreapp3.1\houseOfCards.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\houseOfCards\houseOfCards\obj\Debug\netcoreapp3.1\houseOfCards.AssemblyInfo.cs
+C:\Users\123\source\repos\houseOfCards\houseOfCards\obj\Debug\netcoreapp3.1\houseOfCards.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\houseOfCards\houseOfCards\obj\Debug\netcoreapp3.1\houseOfCards.dll
+C:\Users\123\source\repos\houseOfCards\houseOfCards\obj\Debug\netcoreapp3.1\houseOfCards.pdb
+C:\Users\123\source\repos\houseOfCards\houseOfCards\obj\Debug\netcoreapp3.1\houseOfCards.genruntimeconfig.cache
